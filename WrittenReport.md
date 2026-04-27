@@ -20,21 +20,10 @@ So, those have became our society's problems. But how has green computing and su
     
 - Eco-Friendly **hardware**
    
-
-Those are just a few examples on 
-
-¹2024 US stats: National Association of Safety Professionals (https://www.naspweb.com/blog/the-environmental-cost-of-data-centers/)
-
-¹2018 US stats: 2018 CBECS https://www.eia.gov/consumption/commercial/data/2018/pdf/2018_CBECS_Data_Center_Pilot_Results.pdf
-
 ## How it Works
 **Green Computing** and **Sustainable Data Centers** work by minimizing the environmental impact they have on the planet through renewable energy usage while still keeping them useful and fast. Through techniques such as **hardware efficiency**, which uses low power devices and optimizes software so that IT systems require less resources to function. For example, **virtualization** allows for multiple applications or virtual machines to run on a single server, therefor reducing the need for excess hardware. Green Computing encourages keeping devices for longer and recycling them to reduce electronic waste.
 
 **Sustainable Data Centers** apply these ideas on a larger scale which involves implementing **renewable energy, adopting advanced cooling technologies, and using modular and scalable designs**. Utilizing **renewable energy** is done through harnessing solar, wind and hydropower which in return reduces the usage of fossil fuels and greenhouse gas emissions. **Advanced Cooling** is the biggest energy cost for data centers after servers, taking up 30-40% of a data center's energy use. So sustainable cooling technologies are essnetial for improving energy efficiency, like seperating hot and cold air to reduce energy, known as **containment systems** which can be powered by renewable energy. **Liquid Cooling** is another method used in data centers to remove heat using liquid instead of air. Computers and servers produce heat when running so, instead of using fans, liquid flows through tubes; absorbing the heat and carrying it away. The heat is then cooled down elsewhere (like a radiator system). Lastly, **Modular and Scalable designs** are becoming increasingly popular in the data center industry due to their efficiency. Instead of building one huge data center at once, modules are seperate built in units. They save energy because they only power what's needed, prevent servers from sitting idle, they're cost efficient and easy to uprgrade or expand later. 
-
-https://encoradvisors.com/green-data-center/
-
-https://www.computer.org/publications/tech-news/trends/sustainable-it-infrastructure
 
 ## Real World Use
 
@@ -43,11 +32,13 @@ Sustainable computing and data centers have many advantages, especially in reduc
 
 However, there are also some limitations. The biggest setback is the **high initial cost** of setting up sustainable systems, like advanced cooling or renewable energy sources. They can also be more complex to manage because they require skilled workers and specialized tools. In some cases, older systems may not be compatible, and limited access to renewable energy can make it harder to fully implement sustainable solutions. Despite these challenges, the advanatges outweight the disadvanatges and the long-term benefits often make green computing worthwhile.
 
-https://hexatronicdatacenter.com/en/knowledge/the-business-case-for-sustainable-data-centers-why-its-good-for-companies-as-well-as-the-environment
-
-
 ## Personal Reflection
 Green Computing is essential to understand in this is industry because technology is growing rapidly, and it's important to understand how it impacts the environment. As more services move online and rely on cloud computing, data centers are becoming a major part of the IT industry, but they also use a lot of energy. learning about ways to make them more efficient, such as using renewable energy and better cooling systems, shows how technology can be both powerful and responsible. This topic is not only important but also beneficial for our future careers because many of us will work in fields like software development, netwroking, or IT, where we will be making decisions about systems and infrastructure. Understanding green computing helps us design and use technology in a way that is efficient, cost-effective, and environmentally friendly, which is becoming increasingly important in the industry. 
 
 ## References
+- 2018 CBECS Data Center Pilot results May 2021. (n.d.). https://www.eia.gov/consumption/commercial/data/2018/pdf/2018_CBECS_Data_Center_Pilot_Results.pdf 
+- Blogger, N. (2026, March 5). The environmental cost of data centers. National Association of Safety Professionals. https://www.naspweb.com/blog/the-environmental-cost-of-data-centers/ 
+- Bunnell, J. (2024, June 18). The role of a Green Data Center for a sustainable IT infrastructure. IEEE Computer Society. https://www.computer.org/publications/tech-news/trends/sustainable-it-infrastructure 
+- Renaud, S. (2026, March 31). Green Data Center - The Complete Guide for 2025. ENCOR Advisors. https://encoradvisors.com/green-data-center/ 
+- Team, D. C. (2024, November 27). Sustainable Data Centers: Benefits for companies and the environment. Hexatronic Data Center. https://hexatronicdatacenter.com/en/knowledge/the-business-case-for-sustainable-data-centers-why-its-good-for-companies-as-well-as-the-environment 
 
