@@ -45,9 +45,13 @@ Another example would be energy efficient **cloud services**. Things that we use
 All these techniques (and more) are implemented into green data centers that those companies like Google and Microsoft use to operate their centers in a way that puts the environment first. 
 
 
-¹Microsoft: (https://news.microsoft.com/source/features/sustainability/6-projects-that-helped-microsoft-meet-its-renewable-energy-goal/?msockid=1d0c264b49406a543f16310348a86b32)
-Google: (https://datacenters.google/energy/)
-Cloud Services: (https://www.geeksforgeeks.org/cloud-computing/energy-efficiency-in-cloud-computing)
+¹Microsoft: https://news.microsoft.com/source/features/sustainability/6-projects-that-helped-microsoft-meet-its-renewable-energy-goal/?msockid=1d0c264b49406a543f16310348a86b32
+
+Google: https://datacenters.google/energy/
+
+https://www.geeksforgeeks.org/cloud-computing/energy-efficiency-in-cloud-computing
+
+https://gbc-engineers.com/news/green-computing-data-center
 ## Advantages and Limitations
 
 ## Personal Reflection
