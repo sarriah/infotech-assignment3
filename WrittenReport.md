@@ -42,6 +42,8 @@ Another example would be energy efficient **cloud services**. Things that we use
 
 **Solid State Drives** actually also play a major role. They're way better than tradition HDDs. They consume less power and give us faster data access. 
 
+**Virtualization** can play a part as well. Companies use VMWare to make their data centers more sustainable. VMware is used in their companies like Amazon's cloud infrastructure. Instead of running an application per **physical** server, they can run virtual machines on less servers. Now we have less machines needed and ovearall it lowers the electricity consumption and heat production in data centers. 
+
 All these techniques (and more) are implemented into green data centers that those companies like Google and Microsoft use to operate their centers in a way that puts the environment first. 
 
 
@@ -52,6 +54,8 @@ Google: https://datacenters.google/energy/
 https://www.geeksforgeeks.org/cloud-computing/energy-efficiency-in-cloud-computing
 
 https://gbc-engineers.com/news/green-computing-data-center
+
+https://blogs.vmware.com/vov/2023/10/03/how-vmware-made-sustainable-computing-and-the-green-enterprise-a-reality/
 ## Advantages and Limitations
 
 ## Personal Reflection
