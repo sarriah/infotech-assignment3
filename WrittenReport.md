@@ -21,7 +21,7 @@ So, those have became our society's problems. But how has green computing and su
 - Eco-Friendly **hardware**
    
 
-Those are just a few examples on 
+
 
 ¹2024 US stats: National Association of Safety Professionals (https://www.naspweb.com/blog/the-environmental-cost-of-data-centers/)
 
